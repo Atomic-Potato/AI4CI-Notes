@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "5c931edd92041dc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "586090a89d35ae3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6982c034a39e8237",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📋Global TODO.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "📋Global TODO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cfb01f730e62d05",
+    "type": "split",
+    "children": [
+      {
+        "id": "85f8f370b4352d8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f1ee460bb1ec18d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "45f4d8140be8a1a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "11ef726a4270089f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "e645285907dd5e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee56858b6d3b952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89282edb044d42e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Master 1/Semester 1/USEEK7 - Network security/Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Project"
+            }
+          },
+          {
+            "id": "0adcfb36fce1a10d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Master 1/Semester 1/USEEK7 - Network security/Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project"
+            }
+          },
+          {
+            "id": "3dbcf001c5400e7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ee3ded44102a9a47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Master 1/Semester 1/USEEK7 - Network security/Project.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6982c034a39e8237",
+  "lastOpenFiles": [
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 2 - Application Layer/Chapter 2 - Application Layer.md",
+    "Master 1/Semester 1/USEEK7 - Network security/Project.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/Intro to C.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/ Intro to cmd with Bash.md",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Number Representation and Boolean Function.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/PDF/Intro to C.pdf",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009195555.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009211409.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009211344.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009211123.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009211039.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/PDF/NumbersAndBool.pdf",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009210814.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009203042.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009202529.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009202400.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/Pictures/Pasted image 20251009201144.png",
+    "Master 1/Semester 1/USEEK7 - Network security/📋TODO - USEEK7 Network Security.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/PDF/Bash-Lab-01.pdf",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/PDF",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Session 1 Notes.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/PDF",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Info.md",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Session Notes.md",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab1 /PDF/Exercise 1 DNS.pdf",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab1 /PDF",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 2 - Application Layer/PDF",
+    "📋Global TODO.md",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/PDF",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab1 /Report Lab 1 HTTP & DNS.md",
+    "Master 1/Semester 1/USEEN3 - Operations Research/📋TODO - USEEN3 Operations Research.md",
+    "Master 1/Semester 1/USEEN3 - Operations Research/lecture1-2526.pdf",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Info.md",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/📋TODO - USEEJ6 Network Architecture.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Lab 1/Lab 1 - Intro to cmd with Bash.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/Lab 2 - Intro to C.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/Lab 1 - Intro to cmd with Bash.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Lab 2/Lab 2 - Intro to C.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Lab 1 - Intro to cmd with B.md",
+    "Callouts.md",
+    "Master 1/Untitled.md",
+    "Welcome.md"
+  ]
+}

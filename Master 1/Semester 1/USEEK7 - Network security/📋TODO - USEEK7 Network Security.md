@@ -1,0 +1,7 @@
+- [ ] Solve Lab 1 exercises
+- [ ] Write Lab 1 notes
+- [ ] Project
+	- [ ] Find a simple problem
+	- [ ] Find already done solutions
+	- [ ] Find a better solution
+	- [ ] Write the thesis

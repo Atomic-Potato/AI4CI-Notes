@@ -1,0 +1,1 @@
+- [ ] Write session 1 notes

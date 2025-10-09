@@ -1,0 +1,6 @@
+- [x] Finish [[Report Lab 1 HTTP & DNS|lab 1]]:
+	- [x] Ex 1
+	- [x] Ex 2
+	- [x] Ex 3
+	- [x] Ex 1 extra
+	- [x] Add the extra, export pdf and upload it before friday
