@@ -4,8 +4,9 @@
     "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "2",
+    "margin": "0",
     "downscalePercent": 50
   },
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

@@ -1,5 +1,10 @@
 > [!warning]
 > Ignore this note if you are not me
+
+> [!info] session 2
+
+---
+> [!info] Session 1
 # Chapter 1: Intro
 packet transimssion delay = time needed to tramist L-bit packet into link = L (bits) / R (bits/sec)
 

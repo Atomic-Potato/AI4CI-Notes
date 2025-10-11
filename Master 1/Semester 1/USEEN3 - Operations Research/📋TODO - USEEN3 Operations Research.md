@@ -1,1 +1,1 @@
-- [ ] Write session 1 notes
+- [ ] Write session 1 notes $\color{red} HIGH$

@@ -12,3 +12,7 @@
 ---
 
 ![[📋TODO - USEEN3 Operations Research]]
+
+---
+
+![[📋TODO - USEEN6 AI and ML for Connected Systems]]
