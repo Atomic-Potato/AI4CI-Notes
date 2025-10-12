@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "📋Global TODO"
             }
+          },
+          {
+            "id": "7c7e66b13f276ec5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master 1/Semester 1/USEEK7 - Network security/ℹ️Info.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ℹ️Info"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋Global TODO.md",
+                "file": "Master 1/Semester 1/USEEK7 - Network security/ℹ️Info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📋Global TODO"
+              "title": "Outline of ℹ️Info"
             }
           }
         ],
@@ -158,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,52 +188,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "6982c034a39e8237",
+  "active": "1f1ee460bb1ec18d",
   "lastOpenFiles": [
-    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/📙Intro to C.md",
+    "Untitled Document",
+    "Master 1/Semester 1/USEEK7 - Network security/Project/Exploring.canvas",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td1.pdf",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📙Number Representation and Boolean Function.md",
+    "Master 1/Semester 1/USEEK7 - Network security/ℹ️Info.md",
+    "Master 1/Semester 1/USEEK7 - Network security/📚Documents/Network_Security___Slides_2.pdf",
+    "Master 1/Semester 1/USEEK7 - Network security/📋TODO - USEEK7 Network Security.md",
     "README.md",
-    "Master 1/Semester 2/USEEV5 - FPGA Platforms: Programmable Embedded Systems",
+    "Master 1/Semester 1/USEEK7 - Network security/📚Documents",
+    "Untitled.base",
+    "Untitled.md",
+    "Master 1/Semester 1/USEEK7 - Network security/Project/Untitled",
+    "Master 1/Semester 1/USEEK7 - Network security/Project",
+    "📋Global TODO.md",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/TD_TCP.odt",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/lu22890b250b.tmp",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/📋TODO - USEEJ6 Network Architecture.md",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/ℹ️Info.md",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Session Notes.md",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/C_Transport-en.pdf",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012115252.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012160416.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012155224.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012145044.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012142647.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012142240.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012140455.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012130311.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012124826.png",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012124101.png",
+    "application layer.md",
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/📙Intro to C.md",
     "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/📙Intro to cmd with Bash.md",
     "Master 1/Semester 1/USEEN3 - Operations Research/ℹ️Info.md",
     "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📙Introduction.md",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/ℹ️Info.md",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📙Number Representation and Boolean Function.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Session Notes.md",
-    "📋Global TODO.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/Pictures",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2",
     "Master 1/Semester 1/USEEN3 - Operations Research/📋TODO - USEEN3 Operations Research.md",
     "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/Session 1 Notes.md",
-    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/Pictures/Pasted image 20251011181505.png",
-    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/Pictures",
-    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/Pictures/Pasted image 20251011181503.png",
-    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/Pictures/Pasted image 20251011163207.png",
-    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/lecture1-2526.pdf",
-    "Master 1/Semester 1/USEEK7 - Network security/📋TODO - USEEK7 Network Security.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/📋TODO - USEEJ6 Network Architecture.md",
     "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📋TODO - USEEN6 AI and ML for Connected Systems.md",
-    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents",
-    "Untitled Document",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/C_Transport-en.pdf",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab1 /📚 Documents/Exercise 1 DNS.pdf",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 2 - Application Layer/📙 Application Layer.md",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab1 /Report Lab 1 HTTP & DNS.md",
-    "Master 1/Semester 1/USEEK7 - Network security/Project.md",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251009195555.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251009211409.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251009211344.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251009211123.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251009211039.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251009210814.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251009203042.png",
     "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Lab 1/Lab 1 - Intro to cmd with Bash.md",
     "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/Lab 2 - Intro to C.md",
-    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/Lab 1 - Intro to cmd with Bash.md",
-    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Lab 2/Lab 2 - Intro to C.md",
-    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Lab 1 - Intro to cmd with B.md",
-    "Callouts.md"
+    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/Lab 1 - Intro to cmd with Bash.md"
   ]
 }
