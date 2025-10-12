@@ -1,31 +1,3 @@
-***Table of Contents***
-
-1. [[#Terminal shortcuts|Terminal shortcuts]]
-2. [[#The 3 types of files|The 3 types of files]]
-3. [[#Commands|Commands]]
-	1. [[#Commands#Working with directories|Working with directories]]
-	2. [[#Commands#Working with files|Working with files]]
-	3. [[#Commands#Text related commands|Text related commands]]
-4. [[#`more` vs `less`|`more` vs `less`]]
-5. [[#Getting help with ma `man`|Getting help with ma `man`]]
-6. [[#File access management|File access management]]
-	1. [[#File access management#`chmod`|`chmod`]]
-		1. [[#`chmod`#First method|First method]]
-		2. [[#`chmod`#Second method|Second method]]
-7. [[#Regex|Regex]]
-	1. [[#Regex#Single `'` vs Double `"` quotes|Single `'` vs Double `"` quotes]]
-8. [[#Terminal standard input and output|Terminal standard input and output]]
-	1. [[#Terminal standard input and output#Redirecting inpt/output|Redirecting inpt/output]]
-		1. [[#Redirecting inpt/output#Pipe `|` operator|Pipe `|` operator]]
-9. [[#Jobs|Jobs]]
-10. [[#Environment variables|Environment variables]]
-11. [[#Creating a shell script|Creating a shell script]]
-	1. [[#Creating a shell script#if statements|if statements]]
-	2. [[#Creating a shell script#loops|loops]]
-	3. [[#Creating a shell script#Passing parameters to your script|Passing parameters to your script]]
-		1. [[#Passing parameters to your script#functions|functions]]
-	4. [[#Creating a shell script#Running your script without specifying the path|Running your script without specifying the path]]
-
 # Terminal shortcuts
 ![[Pasted image 20250930122146.png]]
 

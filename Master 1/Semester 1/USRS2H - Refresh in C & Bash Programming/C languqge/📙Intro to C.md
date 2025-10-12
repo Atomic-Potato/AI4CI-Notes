@@ -1,12 +1,3 @@
-***Table of Contents***
-
-1. [[#Definition vs Declaration|Definition vs Declaration]]
-2. [[#Libraries and functions|Libraries and functions]]
-3. [[#Header files|Header files]]
-4. [[#Compiling code|Compiling code]]
-	1. [[#Compiling code#Using a `makefile`|Using a `makefile`]]
-5. [[#Misc.|Misc.]]
-
 # Definition vs Declaration
 **The definition of a function contains** : 
 - the function name 
