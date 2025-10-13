@@ -8,7 +8,7 @@
 > **This layer provides logical communication between application processes running on different hosts**
 
 The **sender** breaks application messages into segments, passes to network layer.
-While the **receiver** reassembles segments into messages, passes to [[application layer]]
+While the **receiver** reassembles segments into messages, passes to [[📙 Application Layer|application layer]]
 
 ## Transport Vs. Network layer
 `Transport layer` handles communication between processes (Applications). While `network layer` communication between hosts (Servers)

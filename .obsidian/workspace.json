@@ -24,56 +24,17 @@
             }
           },
           {
-            "id": "7118a56e24b982c9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td1.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "td1"
-            }
-          },
-          {
-            "id": "f61dc42023c9c102",
+            "id": "00297615b93783c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master 1/Semester 1/USEEJ9 - FLE - French as foreign language/📋TODO - USEEJ9 French.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📋TODO - USEEJ9 French"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
-      },
-      {
-        "id": "6b3ae043576c4580",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aafb927f6f27e33c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📙Number Representation and Boolean Function.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "📙Number Representation and Boolean Function"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📙Number Representation and Boolean Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📙Number Representation and Boolean Function"
+              "title": "Outline"
             }
           }
         ],
@@ -218,19 +178,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f1ee460bb1ec18d",
+  "active": "00297615b93783c7",
   "lastOpenFiles": [
-    "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books/ISLR_First_Printing.pdf",
-    "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books/Hands-on-Machine-Learning.pdf",
-    "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
+    "application layer.md",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251014002946.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Untitled.jpeg",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/ex5.jpeg",
     "📋Global TODO.md",
-    "Master 1/Semester 1/USEEJ9 - FLE - French as foreign language/📋TODO - USEEJ9 French.md",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📙Number Representation and Boolean Function.md",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/NumbersAndBool.pdf",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td2.pdf",
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/Lab2.pdf",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td 2 Solutions.md",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td 1 Solutions.md",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📙Number Representation and Boolean Function.md",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251014002335.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251014002018.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted Image 20251014001213_912.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted Image 20251014001017_161.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/ex41.jpeg",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted Image 20251014000858_218.png",
+    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251013235230.png",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td1.pdf",
+    "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books/Hands-on-Machine-Learning.pdf",
+    "Master 1/Semester 1/USEEJ9 - FLE - French as foreign language/📋TODO - USEEJ9 French.md",
+    "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books/ISLR_First_Printing.pdf",
+    "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books",
     "Master 1/Semester 1/USEEK7 - Network security/ℹ️Info.md",
     "Untitled Document",
     "Master 1/Semester 1/USEEK7 - Network security/Project/Exploring.canvas",
@@ -238,26 +215,10 @@
     "Master 1/Semester 1/USEEK7 - Network security/📋TODO - USEEK7 Network Security.md",
     "README.md",
     "Master 1/Semester 1/USEEK7 - Network security/📚Documents",
-    "Untitled.base",
     "Untitled.md",
-    "Master 1/Semester 1/USEEK7 - Network security/Project/Untitled",
-    "Master 1/Semester 1/USEEK7 - Network security/Project",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/TD_TCP.odt",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/📋TODO - USEEJ6 Network Architecture.md",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/ℹ️Info.md",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/Session Notes.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012115252.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012160416.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012155224.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012145044.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012142647.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012142240.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012140455.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012130311.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012124826.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/Pictures/Pasted image 20251012124101.png",
-    "application layer.md",
     "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/📙Intro to C.md",
     "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/📙Intro to cmd with Bash.md",
     "Master 1/Semester 1/USEEN3 - Operations Research/ℹ️Info.md",
@@ -268,7 +229,6 @@
     "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📋TODO - USEEN6 AI and ML for Connected Systems.md",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 2 - Application Layer/📙 Application Layer.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab1 /Report Lab 1 HTTP & DNS.md",
-    "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Lab 1/Lab 1 - Intro to cmd with Bash.md"
+    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab1 /Report Lab 1 HTTP & DNS.md"
   ]
 }
