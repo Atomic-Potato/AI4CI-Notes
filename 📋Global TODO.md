@@ -16,3 +16,7 @@
 ---
 
 ![[📋TODO - USEEN6 AI and ML for Connected Systems]]
+
+---
+
+![[📋TODO - USEEJ9 French]]
