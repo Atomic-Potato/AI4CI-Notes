@@ -1,4 +1,4 @@
 - Group Project:
-	- [ ] Write ideas 
-	- [ ] Write why the subject is important for your master
-	- [ ] CV?
+	- [x] Write ideas 
+	- [x] Write why the subject is important for your master
+	- [x] CV?

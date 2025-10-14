@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "📋Global TODO"
             }
-          },
-          {
-            "id": "00297615b93783c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,12 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ],
@@ -182,53 +172,92 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "00297615b93783c7",
+  "floating": {
+    "id": "8255419694578eed",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ba6d973c215d544e",
+        "type": "window",
+        "children": [
+          {
+            "id": "9514947b06979a11",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6641764e3cce3027",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Notes.md"
+                  },
+                  "pinned": true,
+                  "icon": "excalidraw-icon",
+                  "title": "Notes"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 856,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1f1ee460bb1ec18d",
   "lastOpenFiles": [
+    "📋Global TODO.md",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251014221248.png",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/Documents/Pictures.md",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Notes.md",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📙Introduction.md",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/lecture1-2526.pdf",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251014230352.png",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251014224149.png",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251014222722.png",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251014221532.png",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/Pictures/Pasted image 20251014102100.png",
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/Pictures/Pasted image 20251014215416.png",
+    "Master 1/Semester 1/USEEN3 - Operations Research/ℹ️Info.md",
+    "Master 1/Semester 1/USEEJ9 - FLE - French as foreign language/Group Projects.md",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
     "application layer.md",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251014002946.png",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Untitled.jpeg",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/ex5.jpeg",
-    "📋Global TODO.md",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/NumbersAndBool.pdf",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td2.pdf",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/Lab2.pdf",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td 2 Solutions.md",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td 1 Solutions.md",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📙Number Representation and Boolean Function.md",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251014002335.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251014002018.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted Image 20251014001213_912.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted Image 20251014001017_161.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/ex41.jpeg",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted Image 20251014000858_218.png",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/Pictures/Pasted image 20251013235230.png",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td1.pdf",
     "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books/Hands-on-Machine-Learning.pdf",
     "Master 1/Semester 1/USEEJ9 - FLE - French as foreign language/📋TODO - USEEJ9 French.md",
     "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books/ISLR_First_Printing.pdf",
-    "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📚Books",
     "Master 1/Semester 1/USEEK7 - Network security/ℹ️Info.md",
-    "Untitled Document",
     "Master 1/Semester 1/USEEK7 - Network security/Project/Exploring.canvas",
-    "Master 1/Semester 1/USEEK7 - Network security/📚Documents/Network_Security___Slides_2.pdf",
     "Master 1/Semester 1/USEEK7 - Network security/📋TODO - USEEK7 Network Security.md",
     "README.md",
-    "Master 1/Semester 1/USEEK7 - Network security/📚Documents",
     "Untitled.md",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/📋TODO - USEEJ6 Network Architecture.md",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/ℹ️Info.md",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/Session Notes.md",
     "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/C languqge/📙Intro to C.md",
     "Master 1/Semester 1/USRS2H - Refresh in C & Bash Programming/Bash/📙Intro to cmd with Bash.md",
-    "Master 1/Semester 1/USEEN3 - Operations Research/ℹ️Info.md",
-    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📙Introduction.md",
     "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/ℹ️Info.md",
     "Master 1/Semester 1/USEEN3 - Operations Research/📋TODO - USEEN3 Operations Research.md",
-    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/Session 1 Notes.md",
-    "Master 1/Semester 1/USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📋TODO - USEEN6 AI and ML for Connected Systems.md",
-    "Master 1/Semester 1/USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Chapters/Chapter 2 - Application Layer/📙 Application Layer.md",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab1 /Report Lab 1 HTTP & DNS.md"
+    "Master 1/Semester 1/USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/Session 1 Notes.md"
   ]
 }

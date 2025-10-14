@@ -22,7 +22,7 @@ This notation suppress:
 > For example: $f(n)=3n^2+5n+2$
 > $3n^2$ is a higher order than $5n$ and $2$
 
-## Big $O$ notation
+## Big $O$ notation (upper bound)
 For a complexity function T(n) defined on the positive integers $n \in \mathbb{N}$:
 $\large \color{red} T(n) = O(f (n))$ **if and only if $T (n)$ is eventually bounded above by a constant multiple of $f (n)$.**
 ![[Pasted image 20251011163207.png]]
@@ -32,7 +32,7 @@ $\large \color{red} T(n) = O(f (n))$ **if and only if $T (n)$ is eventually boun
 > Its best if we find the a function $f(n)$ with the lowest possible order to satisfy our condition
 
 ### Alternative mathematical definition
-$\large \color{red} T (n) = O(f (n))$ if and only if there exist positive constants c and n0 such that $\large \color{blue} T (n) \le cf (n)$ for all **n ≥ n0**
+$\large \color{red} T (n) = O(f (n))$ if and only if there exist positive constants c and n0 such that $\large \color{cyan} T (n) \le cf (n)$ for all **n ≥ n0**
 
 > [!warning] Note
 > c and n0 are constants, they cannot depend on n.
@@ -43,7 +43,7 @@ $\large \color{red} T (n) = O(f (n))$ if and only if there exist positive consta
 
 That satisfies $\large \color{red} T (n) ≤ cf (n)$
 ## A property of big $O$
-> **Suppose $\Large \color{purple} T(n) = a_k n^k + · · · + a_1n + a_0$, then $\Large \color{purple} T(n) = O(n^k)$.** 
+> **Suppose $\Large \color{magenta} T(n) = a_k n^k + · · · + a_1n + a_0$, then $\Large \color{magenta} T(n) = O(n^k)$.** 
 > *Where k ≥ 0 is a non negative integer and the $a_i$ ’s are real numbers (positive or negative).* 
 
 ### Proof:
@@ -59,11 +59,11 @@ and so we found:
 1. $c = |a_k| + · · · + |a_0|$
 2. $n_0 = 1$
 
-## Omega $\Omega$ notation
-$\Large \color{red} T (n) = \Omega(f (n))$ if and only if there exist positive constants c and n0 such that $\color{blue} \large T (n) \ge cf (n)$ for all **n ≥ n0**
+## Omega $\Omega$ notation (lower bound)
+$\Large \color{red} T (n) = \Omega(f (n))$ if and only if there exist positive constants c and n0 such that $\color{cyan} \large T (n) \ge cf (n)$ for all **n ≥ n0**
 
-## Theta $\Theta$ notation
-$\Large \color{red} T (n) = \Omega(f (n))$ if and only if there exist positive constants c1, c2 and n0 such that $\color{blue} \large c_1f (n) \le T (n) \le c_2f (n)$ for all **n ≥ n0**
+## Theta $\Theta$ notation (exact bound)
+$\Large \color{red} T (n) = \Omega(f (n))$ if and only if there exist positive constants c1, c2 and n0 such that $\color{cyan} \large c_1f (n) \le T (n) \le c_2f (n)$ for all **n ≥ n0**
 
 # Miscellaneous
 > - **Elementary Operation:** it is a comparison in your code *(e.g. A[i] = t)*
@@ -73,14 +73,14 @@ $\Large \color{red} T (n) = \Omega(f (n))$ if and only if there exist positive c
 
 ## Finding proof for some properties
 ### Adding a constant to an exponent
-We need to show that: $$\Large \color{purple} x^{n+c} \in O(x^n)$$
+We need to show that: $$\Large \color{magenta} x^{n+c} \in O(x^n)$$
 **Proof (by me, so double check my dumbass):**
 1. we must find c and n0 such that $\large x^{n+c}\le c_1x^n \space \forall n \ge n_0$ and $c1 \gt 0$
 2. $\large x^{n+c}=x^n.x^c \le c_1x^n$
 3. taking $x^n$ from both sides implies $\large x^c \le c_1$
 4. and so any c greater or equal than $x^c$  and n0 = 0 proves our property
 ### Multiplying an exponent by a constant
-We need to show that: $$\Large \color{purple} x^{n*c} \in O(x^n)$$
+We need to show that: $$\Large \color{magenta} x^{n*c} \in O(x^n)$$
 **Proof (by me, so double check my dumbass):**
 1. we must find c and n0 such that $\large x^{n*c}\le c_1x^n \space \forall n \ge n_0$ and $c1 \gt 0$
 2. $\large x^{n*c}=x^{n_c}*x^{n_{c-1}}*...*x^{n_0} \le c_1x^n$
@@ -88,7 +88,10 @@ We need to show that: $$\Large \color{purple} x^{n*c} \in O(x^n)$$
 4. And so we have our C and n0 = 0
 
 ### Max Vs. Sum
-We need to show that: $$\Large \color{purple} T(n) = O(max\{f(n),g(n)\}) = O(f(n)+g(n))$$
+We need to show that: $$\Large \color{magenta} T(n) = O(max\{f(n),g(n)\}) = O(f(n)+g(n))$$
+**Proof (by professor):**
+![[Pasted image 20251014215416.png|700]]
+
 **Proof (by me, so double check my dumbass):**
 1. Let's consider $f(n)=a_kn^k+...+a_0$ and $g(n)=b_jn^j+...+b_0$ and $T(n)=f+g$
 2. Lets show that $T(n)= O(h(n))$
