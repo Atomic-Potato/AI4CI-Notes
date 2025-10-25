@@ -1,7 +1,0 @@
-- [ ] Solve Lab 1 exercises $\color{orange}Mid$
-- [ ] Write Lab 1 notes $\color{red}HIGH$
-- [ ] Project $\color{orange}Mid$
-	- [x] Find a simple problem
-	- [ ] Find already done solutions
-	- [ ] Find a better solution
-	- [ ] Write the thesis 

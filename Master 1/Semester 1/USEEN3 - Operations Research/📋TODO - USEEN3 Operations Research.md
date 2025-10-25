@@ -1,3 +1,0 @@
-<!--
-- [x] Write session 1 notes $\color{red} HIGH$
--->

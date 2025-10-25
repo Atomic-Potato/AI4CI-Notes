@@ -1,4 +1,0 @@
-- Group Project:
-	- [x] Write ideas 
-	- [x] Write why the subject is important for your master
-	- [x] CV?
