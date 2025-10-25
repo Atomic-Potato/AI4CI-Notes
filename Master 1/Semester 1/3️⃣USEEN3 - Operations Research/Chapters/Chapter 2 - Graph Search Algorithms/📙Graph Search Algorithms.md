@@ -179,7 +179,29 @@ And we get the following complexity: $$\Large \Theta(n+m)$$
 ### Shortest paths distances
 The distance between 2 nodes **dist(v,w)** is the fewest number of edges in a path from v to w (or $+\infty$ if G has no path from v to w)
 
+To store the distance from the root node, we modify the algo to add an array that keeps track of the current distance:
+![[Pasted image 20251025193213.png|500]]
+
 ## DFS
+In depth-first search iteration, we go down into the first child before detecting the other children and backtrack when we are at a leaf or all neighbors are explored.
+![[Pasted image 20251025193603.png|400]]
+
+The algorithm for this is quite similar, we only use a stack however:
+![[Pasted image 20251025193630.png|600]]
+
+> [!bug] Correction!
+> at the final line we need to change our code to the following:
+> ```py
+> if w is unexplored and not in stack:
+> 	add ("push") w to the front of S
+> else:
+> 	set w = -1 in the explored array
+> 	or set it to 1 in a different array
+> ```
+
+> [!example] Example: Explicit Execution
+> ![[Pasted image 20251025194049.png|300]]
+> ![[Pasted image 20251025194204.png]]
 
 # Data Structures
  

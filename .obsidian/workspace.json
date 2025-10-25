@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "📋Global TODO"
             }
+          },
+          {
+            "id": "79f04151aa6fa92b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "📙Graph Search Algorithms"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,30 +190,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1f1ee460bb1ec18d",
+  "active": "79f04151aa6fa92b",
   "lastOpenFiles": [
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/topology.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025193213.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📚Documents/Quiz 1.pdf",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📚Documents/Quiz 1 Solutions.pdf",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025194204.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025194049.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/Graph Search Algorithms.pdf",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025193630.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025193603.png",
     "README.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📚Documents",
+    "📋Global TODO.md",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/Lab Credentials.md",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/topology.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/📚Documents/Net Security Lab 1 _ Medyan.pdf",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/Lab2.pdf",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/waa.tcl",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/ex4.tcl",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/ex4.csv",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/ex.tcl",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/auto_tcl2.bash",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/auto_tcl.bash",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/analyze_throughput.awk",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/Untitled.jpeg",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/Network Architecture_ Lab 2 — Transport Layer TCP_UDP.pdf",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/3.png",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/2.png",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/1.png",
     "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/lab 2/Untitled.jpeg",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/lab 2/3.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/lab 2/2.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/lab 2/1.png",
-    "📋Global TODO.md",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /Commands.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /Report Lab 1 HTTP & DNS.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/Lab 2.md",
@@ -206,9 +226,6 @@
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📋TODO - USEEN3 Operations Research.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2/📙 Assembly.md",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2/📚Documents/pictures/Pasted Image 20251020142630_292.png",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2/📚Documents/pictures/Pasted image 20251020112757.png",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/Lab Credentials.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/ℹ️Info.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Notes.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td 2 Solutions.md",
