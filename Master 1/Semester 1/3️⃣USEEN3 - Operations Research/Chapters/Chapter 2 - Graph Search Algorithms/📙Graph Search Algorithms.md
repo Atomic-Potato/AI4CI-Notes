@@ -93,8 +93,8 @@ A graph is:
 > - $\Theta(n*m)$ is an **incorrect** tight bound, because its impossible to reach it
 
 >[!tldr] Reminders:
-> - [[📙Introduction#Big $O$ notation (upper bound)|Big O notation]]
-> - [[📙Introduction#Theta $ Theta$ notation (exact bound)|Big Theta notation]]
+> - [[Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📙Introduction#Big $O$ notation (upper bound)|Big O notation]]
+> - [[Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📙Introduction#Theta $ Theta$ notation (exact bound)|Big Theta notation]]
 
 ## Adjacency Matrix
 We create a square $n \times n$ matrix A, with 0s and 1s for entries. The rows and columns indices represent the vertices, and for each cell we set it to 1 if there is an edge between the row and column nodes.

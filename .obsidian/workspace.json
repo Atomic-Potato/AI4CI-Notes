@@ -33,30 +33,39 @@
             }
           },
           {
-            "id": "f091da67b8f58740",
+            "id": "b81b75e5ac595b9b",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "📋Global TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "table",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📙Linear Regression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "📋Global TODO"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "📙Linear Regression"
+            }
+          },
+          {
+            "id": "33ba6410c49bbbcb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "🐍Python"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 461.5,
+    "collapsed": true
   },
   "right": {
     "id": "e645285907dd5e16",
@@ -177,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab Credentials.md",
+                "file": "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab Credentials"
+              "title": "Outline of 🐍Python"
             }
           }
         ],
@@ -191,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,20 +216,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f091da67b8f58740",
+  "active": "33ba6410c49bbbcb",
   "lastOpenFiles": [
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🎨Scratch.md",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📙Linear Regression.md",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📚Documents/aiml-02-Linear regression.pdf",
+    "📋Global TODO.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/🎨Scratch.md",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 1 - Introduction/📙Introduction.md",
     "README.md",
     "Master 1/Semester 1/5️⃣USEEJ9 - FLE - French as foreign language/ℹ️Info.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/ℹ️Info.md",
     "Master 1/Semester 1/5️⃣USEEJ9 - FLE - French as foreign language/📋TODO - USEEJ9 French.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/ℹ️Info.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Notes 1.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📋TODO - USEEN6 AI and ML for Connected Systems.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📋TODO - USEEN3 Operations Research.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/tcp_ip.pdf",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/📋TODO - USEEK7 Network Security.md",
-    "📋Global TODO.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/📋TODO - USEEJ6 Network Architecture.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025193213.png",
@@ -238,7 +252,6 @@
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/Lab2.pdf",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/waa.tcl",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/ex4.tcl",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/ex4.csv",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/Untitled.jpeg",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/3.png",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/2.png",
@@ -250,11 +263,7 @@
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2/📙 Assembly.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/ℹ️Info.md",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Notes.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td 2 Solutions.md",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Lab 1/📙Number Representation and Boolean Function.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/Linear Regression.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 1 - Introduction/Introduction.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Project/Exploring.canvas"
   ]
 }
