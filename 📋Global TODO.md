@@ -1,22 +1,56 @@
+---
 
-![[📋TODO - USEEJ6 Network Architecture|📋TODO - USEEJ6 Network Architecture]]
+kanban-plugin: table
 
 ---
 
-![[📋TODO - USEEK7 Network Security]]
+## USEEJ6 - Net Arch #net-arc
 
----
+- [ ] 🔼Ask someone to help you understand the third chapter ack exercise
 
-![[📋TODO - USEEN2 OS and Computer Architecure]]
 
----
+## USEEK7 - Net Sec #net-sec
 
-![[📋TODO - USEEN3 Operations Research]]
+- [ ] Solve Lab 1 exercises
+- [ ] Write Lab 1 notes
+- [ ] ## Project @{2026-01-01} 
+	- [x] Find a simple problem
+	- [ ] Find already done solutions
+	- [ ] Find a better solution
+	- [ ] Write the thesis
 
----
 
-![[📋TODO - USEEN6 AI and ML for Connected Systems]]
+## USEEN2 - OSCA #osca
 
----
+- [ ] Assembly session notes
+- [ ] Assembly exercises
 
-![[📋TODO - USEEJ9 French]]
+
+## USEEN6 - AIML #aiml
+
+- [ ] Session 1 notes
+- [ ] Session 2 notes
+- [ ] Lab 1 notes
+
+
+## USEEJ9 - FLE #fle
+
+- [ ] Write the profiles thingy
+- [ ] Upload your anki cards
+
+
+## USEEN3 - OR #or
+
+
+
+***
+
+## Archive
+
+- [x] Finish Lab 2 🔺 ⏳ 2025-10-25 ✅ 2025-10-26
+
+%% kanban:settings
+```
+{"kanban-plugin":"table","list-collapse":[false,false,false,false,false,false],"table-sizing":{"card":823}}
+```
+%%

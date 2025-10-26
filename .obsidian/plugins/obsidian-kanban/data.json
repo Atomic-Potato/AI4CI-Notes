@@ -1,0 +1,49 @@
+{
+  "show-checkboxes": true,
+  "tag-colors": [
+    {
+      "tagKey": "#net-sec",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(255, 215, 0, 1)"
+    },
+    {
+      "tagKey": "#net-arc",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(0, 255, 255, 1)"
+    },
+    {
+      "tagKey": "#osca",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(50, 205, 50, 1)"
+    },
+    {
+      "tagKey": "#or",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(255, 0, 255, 1)"
+    },
+    {
+      "tagKey": "#aiml",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(255, 127, 80, 1)"
+    },
+    {
+      "tagKey": "#fle",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(135, 206, 250, 1)"
+    }
+  ],
+  "move-tags": true,
+  "tag-action": "kanban",
+  "move-dates": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 0,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "color": "rgba(255, 136, 0, 1)"
+    }
+  ],
+  "inline-metadata-position": "footer"
+}
