@@ -203,5 +203,41 @@ The algorithm for this is quite similar, we only use a stack however:
 > ![[Pasted image 20251025194049.png|300]]
 > ![[Pasted image 20251025194204.png]]
 
-# Data Structures
- 
+### DFS: Recursive
+It is pretty much the same, but we dont need a stack for this one:
+![[Pasted image 20251028120206.png| 500]]
+
+> [!example] Execution example
+> ![[Pasted image 20251028150753.png]]
+
+> [!example] Example: Execution in a directed graph
+> ![[Pasted image 20251028151041.png]]
+> > [!Warning]
+> > In this case we may get **DFS Forest** instead of a single tree.
+
+## Topological Ordering
+
+In topological ordering, we set the value of each node to be lower than all of its outbounded neighbors (pointing to). We can use [[#DFS]] to compute this ordering.
+
+> [!Warning] 
+> It is not possible to do topological ordering on non **directed acyclic graphs (DAG)**. *There's no way to do this on a cycle.*
+
+> [!example]
+> ![[Pasted image 20251028151626.png|500]]
+
+> [!info] Formal Definition
+> Let graph G be a directed graph. A topological ordering of G is an assignment f(v) of every vertex $v \in V$ to a different number such that: $$\Large \forall (v,w) \in E, \space f(v) < f(w)$$ 
+
+### Algorithm
+![[Pasted image 20251028152751.png]]
+![[Pasted image 20251028152810.png]]
+
+> [!example] Execution Example
+> ![[Pasted image 20251028152843.png]]
+
+### Properties
+1. Every directed acyclic graph (DAG) has at least one topological ordering.
+2. Every DAG has at least one source vertex.
+
+
+

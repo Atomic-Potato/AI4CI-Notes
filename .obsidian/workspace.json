@@ -4,68 +4,115 @@
     "type": "split",
     "children": [
       {
-        "id": "586090a89d35ae3a",
-        "type": "tabs",
+        "id": "a06649dd1686e53c",
+        "type": "split",
+        "dimension": 48.77398720682303,
         "children": [
           {
-            "id": "74ddf16b85d2f0c4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "📋Global TODO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "table",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+            "id": "586090a89d35ae3a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74ddf16b85d2f0c4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "📋Global TODO.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "table",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-trello",
+                  "title": "📋Global TODO"
                 }
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "📋Global TODO"
-            }
+              {
+                "id": "81469ccbadae1de3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "📙Graph Search Algorithms"
+                }
+              },
+              {
+                "id": "cb3e7a0ce9c127aa",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📙Minimum Spanning Trees.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "📙Minimum Spanning Trees"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "b81b75e5ac595b9b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📙Linear Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "📙Linear Regression"
-            }
-          },
-          {
-            "id": "33ba6410c49bbbcb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "🐍Python"
-            }
+            "id": "5c5c54c9b57dc34d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf2ba67b582ce736",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted Image 20251028104740_203.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted Image 20251028104740_203"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
+      },
+      {
+        "id": "a310ae55bcfacd1d",
+        "type": "tabs",
+        "dimension": 51.22601279317697,
+        "children": [
+          {
+            "id": "4b175aed7f1b1d45",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/🎨Scratch.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "🎨Scratch"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5,
-    "collapsed": true
+    "width": 356.5
   },
   "right": {
     "id": "e645285907dd5e16",
@@ -187,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
+                "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted Image 20251028104740_203.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🐍Python"
+              "title": "Outline of Pasted Image 20251028104740_203"
             }
           }
         ],
@@ -201,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,14 +263,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "33ba6410c49bbbcb",
+  "active": "1f1ee460bb1ec18d",
   "lastOpenFiles": [
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🎨Scratch.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📙Linear Regression.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📚Documents/aiml-02-Linear regression.pdf",
-    "📋Global TODO.md",
+    "Pasted Image 20251027145243_871.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted Image 20251028104740_203.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted Image 20251028095414_855.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted image 20251028115853.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted image 20251028141712.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Untitled.jpeg",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028150753.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028151041.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028151626.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028152519.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028152641.png",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📙Minimum Spanning Trees.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/🎨Scratch.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/Graph Search Algorithms.pdf",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Scratch.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/TD_MAClayer.pdf",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Medium Access Control Layer.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Multiple Access Channel.pdf",
+    "📋Global TODO.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/C_Transport-en.pdf",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /📚 Documents/Lab1 HTTPDNS.pdf",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /📚 Documents/Exercise 1 DNS.pdf",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Session Notes.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/Introduction and Computational Complexity.pdf",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📙Linear Regression.md",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🎨Scratch.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 1 - Introduction/📙Introduction.md",
     "README.md",
     "Master 1/Semester 1/5️⃣USEEJ9 - FLE - French as foreign language/ℹ️Info.md",
@@ -233,37 +306,11 @@
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📋TODO - USEEN6 AI and ML for Connected Systems.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📋TODO - USEEN3 Operations Research.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/tcp_ip.pdf",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/📋TODO - USEEK7 Network Security.md",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/📋TODO - USEEJ6 Network Architecture.md",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025193213.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📚Documents/Quiz 1.pdf",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📚Documents/Quiz 1 Solutions.pdf",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025194204.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025194049.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/Graph Search Algorithms.pdf",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025193630.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251025193603.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📚Documents",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/Lab Credentials.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/topology.md",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/📚Documents/Net Security Lab 1 _ Medyan.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/Lab2.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/waa.tcl",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/ex4.tcl",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/Untitled.jpeg",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/3.png",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/2.png",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/The scuffed ass solution/1.png",
-    "Master 1/Semester 1/USEEJ6 - Network Architecture/Labs/Lab 2/📚Documents/lab 2/Untitled.jpeg",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /Commands.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /Report Lab 1 HTTP & DNS.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 2/Lab 2.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2/📙 Assembly.md",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/ℹ️Info.md",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Lab 1/📚Documents/td 2 Solutions.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Project/Exploring.canvas"
   ]
 }
