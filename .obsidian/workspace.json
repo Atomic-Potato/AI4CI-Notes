@@ -4,115 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "a06649dd1686e53c",
-        "type": "split",
-        "dimension": 48.77398720682303,
+        "id": "586090a89d35ae3a",
+        "type": "tabs",
         "children": [
           {
-            "id": "586090a89d35ae3a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "74ddf16b85d2f0c4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "📋Global TODO.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "table",
-                      "list-collapse": [
-                        false,
-                        false,
-                        false,
-                        false,
-                        false,
-                        false
-                      ]
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-trello",
-                  "title": "📋Global TODO"
+            "id": "74ddf16b85d2f0c4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "📋Global TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "table",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              {
-                "id": "81469ccbadae1de3",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "📙Graph Search Algorithms"
-                }
-              },
-              {
-                "id": "cb3e7a0ce9c127aa",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📙Minimum Spanning Trees.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "📙Minimum Spanning Trees"
-                }
-              }
-            ],
-            "currentTab": 2
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "📋Global TODO"
+            }
           },
           {
-            "id": "5c5c54c9b57dc34d",
+            "id": "b0c0a686ac22a5a3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028164545.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251028164545"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "63fc0aefdb8fc719",
+        "type": "split",
+        "children": [
+          {
+            "id": "61355bca39209f74",
             "type": "tabs",
+            "dimension": 41.574074074074076,
             "children": [
               {
-                "id": "bf2ba67b582ce736",
+                "id": "a156a0491d6d2f9e",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "excalidraw",
                   "state": {
-                    "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted Image 20251028104740_203.png"
+                    "file": "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/🎨Scratch.md"
                   },
-                  "icon": "lucide-image",
-                  "title": "Pasted Image 20251028104740_203"
+                  "icon": "excalidraw-icon",
+                  "title": "🎨Scratch"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8e607897cc918726",
+            "type": "tabs",
+            "dimension": 58.425925925925924,
+            "children": [
+              {
+                "id": "fc3fd8f9f793e288",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Multiple Access Channel.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "Multiple Access Channel"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "a310ae55bcfacd1d",
-        "type": "tabs",
-        "dimension": 51.22601279317697,
-        "children": [
-          {
-            "id": "4b175aed7f1b1d45",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/🎨Scratch.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "🎨Scratch"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted Image 20251028104740_203.png",
+                "file": "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028164545.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted Image 20251028104740_203"
+              "title": "Outline of Pasted image 20251028164545"
             }
           }
         ],
@@ -265,40 +245,42 @@
   },
   "active": "1f1ee460bb1ec18d",
   "lastOpenFiles": [
-    "Pasted Image 20251027145243_871.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted Image 20251028104740_203.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted Image 20251028095414_855.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted image 20251028115853.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Pasted image 20251028141712.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures/Untitled.jpeg",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028150753.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028151041.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028151626.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028152519.png",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/pictures/Pasted image 20251028152641.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📙Medium Access Control Protocols.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028181830.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/🎨Scratch.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Multiple Access Channel.pdf",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted Image 20251028181637_577.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028181619.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028181420.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028181227.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted Image 20251028181122_249.png",
+    "DIFS.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028175843.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted Image 20251028175817_936.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028174715.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028172812.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/ℹ️Info.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/🎨Scratch.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Session Notes.md",
+    "📋Global TODO.md",
+    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📙Minimum Spanning Trees.md",
+    "README.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 1 - Number Representation and Boolean Function/📙Number Representation and Boolean Function.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents/Pictures",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📚Documents",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/🎨Scratch.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📚Documents/Graph Search Algorithms.pdf",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Scratch.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/TD_MAClayer.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Medium Access Control Layer.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Multiple Access Channel.pdf",
-    "📋Global TODO.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/TD_MAClayer.pdf",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📚Documents/C_Transport-en.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /📚 Documents/Lab1 HTTPDNS.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /📚 Documents/Exercise 1 DNS.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Session Notes.md",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 1 - Introduction/📚Documents/Introduction and Computational Complexity.pdf",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📙Linear Regression.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🎨Scratch.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 1 - Introduction/📙Introduction.md",
-    "README.md",
     "Master 1/Semester 1/5️⃣USEEJ9 - FLE - French as foreign language/ℹ️Info.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/ℹ️Info.md",
     "Master 1/Semester 1/5️⃣USEEJ9 - FLE - French as foreign language/📋TODO - USEEJ9 French.md",
@@ -308,9 +290,6 @@
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/📋TODO - USEEK7 Network Security.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/📋TODO - USEEJ6 Network Architecture.md",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/Lab Credentials.md",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 1/topology.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab1 /Commands.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Project/Exploring.canvas"
   ]
 }
