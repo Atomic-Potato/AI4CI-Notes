@@ -35,7 +35,7 @@ kanban-plugin: table
 
 ## USEEJ9 - FLE #fle
 
-- [ ] Write the profiles thingy
+- [x] Write the profiles thingy
 - [ ] Upload your anki cards
 
 

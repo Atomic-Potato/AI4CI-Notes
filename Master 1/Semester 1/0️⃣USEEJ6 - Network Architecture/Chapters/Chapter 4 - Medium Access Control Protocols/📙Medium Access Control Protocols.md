@@ -121,8 +121,23 @@ This way, nodes near to the transmit node or to the destination node become awar
 > CW is not only for data! We add it as well if there was a collision in RTS, CTS, or whatever signal the user has sent!
 # Channelization Access Protocols
 Channelization is a multiple-access method in which the available bandwidth of a link is shared in time and frequency, or through code, between different stations.
-## TDMA
 
+In channelization the main idea is to split the frequency ranges or time ranges for different bay stations or users.
+
+> [!hint] Frequency & Bandwidth
+> **Frequency** is the number of waves per second, it is measured in Hz or cycles per second. It determines the carrier wave that your signal rides on. The available **bandwidth** is the total range of frequencies that can be used.
+> ![[Pasted image 20251029130115.png|500]]
+## TDMA
+In **Time Division Multiple Access** the channel is separated into several time slots, where each user is allocated a different time slot **(if any are available that is)**.
+![[Pasted image 20251029130741.png]]
+
+### DMA: Division Multiple Access
+> [!bug] to be continued ...
+
+When users are sending over their signals, they have to consider their distance from the bay station
+![[DMA.jpeg]]
+![[Pasted image 20251029131951.png|400]]
+![[Pasted image 20251029131924.png]]
 ## FDMA
 
 ## CDMA
