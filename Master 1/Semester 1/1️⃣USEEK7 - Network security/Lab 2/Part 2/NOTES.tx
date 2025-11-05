@@ -1,0 +1,10 @@
+i tried first doing the common authority certificate method for both swanctl and ipsec first,
+but it kept giving me an authentication error whenever i try to start the tunnels.
+
+And i wanted to redo self signed certificate method with swanctl, but i was so frustrated at this point
+either way it is the same process for swanctl, 
+same certificates, 
+same fields in the swanctl.conf but different syntax
+same process of starting the tunnel but using the swanctl command
+
+aight thanks :]

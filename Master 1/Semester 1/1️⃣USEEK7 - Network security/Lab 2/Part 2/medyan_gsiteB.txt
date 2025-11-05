@@ -1,0 +1,62 @@
+gsiteB:/# cd ./etc/ipsec.d/
+
+gsiteB:/etc/ipsec.d# pki --gen --type ed25519 --outform pem > OfficeBKey.pem
+
+gsiteB:/etc/ipsec.d# pki --self --lifetime 3652 --in OfficeBKey.pem \
+--dn "C=FR, O=CNAM, CN=OfficeBCert" \
+--outform pem > OfficeBCert.pem
+
+gsiteB:/etc/ipsec.d# cp OfficeBCert.pem /exports/
+
+gsiteB:/etc/ipsec.d# mv OfficeBKey.pem /etc/ipsec.d/private/
+mv OfficeBCert.pem /etc/ipsec.d/certs/
+
+gsiteB:/etc/ipsec.d# cp /exports/CloudACert.pem /etc/ipsec.d/certs
+
+gsiteB:/etc/ipsec.d# cat ../ipsec.conf
+
+config setup
+
+conn CloudA
+      leftsubnet=10.11.0.0/16
+      leftcert=OfficeBCert.pem
+      right=10.11.0.3
+      rightsubnet=10.12.0.0/16
+      rightcert=CloudACert.pem
+      rightid="C=FR, O=CNAM, CN=CloudACert"
+      auto=start
+
+gsiteB:/etc/ipsec.d# cat ../ipsec.secrets
+: RSA /etc/ipsec.d/private/OfficeBKey.pem
+
+gsiteB:/etc/ipsec.d# ipsec restart
+Stopping strongSwan IPsec...
+Starting strongSwan 5.9.14 IPsec [starter]...
+
+gsiteB:/etc/ipsec.d# ipsec statusall
+Status of IKE charon daemon (strongSwan 5.9.14, Linux 6.8.0-86-generic, x86_64):
+  uptime: 41 minutes, since Nov 04 21:25:49 2025
+  worker threads: 11 of 16 idle, 5/0/0/0 working, job queue: 0/0/0/0, scheduled: 6
+  loaded plugins: charon aesni mgf1 random nonce x509 revocation constraints pubkey pkcs1 pkcs7 pkcs12 pgp dnskey sshkey pem openssl pkcs8 fips-prf gmp curve25519 xcbc cmac kdf gcm drbg curl sqlite attr kernel-netlink resolve socket-default bypass-lan farp stroke vici updown eap-identity eap-sim eap-aka eap-aka-3gpp2 eap-simaka-pseudonym eap-simaka-reauth eap-md5 eap-mschapv2 eap-radius eap-tls xauth-generic xauth-eap dhcp unity counters
+Listening IP addresses:
+  10.11.0.3
+Connections:
+      CloudA:  %any...10.12.0.3  IKEv1/2
+      CloudA:   local:  [C=FR, O=CNAM, CN=OfficeBCert] uses public key authentication
+      CloudA:    cert:  "C=FR, O=CNAM, CN=OfficeBCert"
+      CloudA:   remote: [C=FR, O=CNAM, CN=CloudACert] uses public key authentication
+      CloudA:    cert:  "C=FR, O=CNAM, CN=CloudACert"
+      CloudA:   child:  10.11.0.0/16 === 10.12.0.0/16 TUNNEL
+Shunted Connections:
+Bypass LAN 10.11.0.0/16:  10.11.0.0/16 === 10.11.0.0/16 PASS
+Security Associations (1 up, 0 connecting):
+      CloudA[4]: ESTABLISHED 13 minutes ago, 10.11.0.3[C=FR, O=CNAM, CN=OfficeBCert]...10.12.0.3[C=FR, O=CNAM, CN=CloudACert]
+      CloudA[4]: IKEv2 SPIs: 598014775b22b2d5_i d95e269838796e65_r*, public key reauthentication in 2 hours
+      CloudA[4]: IKE proposal: AES_CBC_128/HMAC_SHA2_256_128/PRF_HMAC_SHA2_256/ECP_256
+      CloudA{4}:  INSTALLED, TUNNEL, reqid 1, ESP SPIs: c20b608c_i cecff933_o
+      CloudA{4}:  AES_CBC_128/HMAC_SHA2_256_128, 0 bytes_i, 0 bytes_o, rekeying in 33 minutes
+      CloudA{4}:   10.11.0.0/16 === 10.12.0.0/16
+
+# for caputring pings from cloud A, you can find the output in the image medyan_gsiteB.png
+gsiteB:/etc/ipsec.d# tcpdump -n -i eth0 -w /exports/gsiteB.pcapng
+

@@ -1,0 +1,15 @@
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination         
+
+Chain FORWARD (policy ACCEPT)
+target     prot opt source               destination         
+ACCEPT     all  --  10.11.0.0/16         tp2-firewall-productionserver-1.tp2-firewall_cloudA 
+ACCEPT     all  --  10.10.0.0/16         tp2-firewall-productionserver-1.tp2-firewall_cloudA 
+ACCEPT     all  --  tp2-firewall-productionserver-1.tp2-firewall_cloudA  10.11.0.0/16        
+ACCEPT     all  --  tp2-firewall-productionserver-1.tp2-firewall_cloudA  10.10.0.0/16        
+ACCEPT     all  --  10.10.0.10           tp2-firewall-devserver-1.tp2-firewall_cloudA 
+ACCEPT     all  --  tp2-firewall-devserver-1.tp2-firewall_cloudA  10.10.0.10          
+DROP       all  --  anywhere             anywhere            
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination         
