@@ -7,6 +7,7 @@ kanban-plugin: board
 ## USEEJ6 - Net Arch #net-arc
 
 - [ ] Finish lab 3
+- [ ] Finish chapter 4 notes
 - [ ] 🔼Ask someone to help you understand the third chapter ack exercise
 
 

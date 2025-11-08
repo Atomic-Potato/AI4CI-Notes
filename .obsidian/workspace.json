@@ -33,27 +33,31 @@
             }
           },
           {
-            "id": "96650a3c5b7f70b9",
+            "id": "6688d0a539498385",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2-description.pdf"
+                "file": "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/🎨Scratch.md"
               },
-              "icon": "lucide-file-text",
-              "title": "TP2-description"
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "🎨Scratch"
             }
           },
           {
-            "id": "d2256e19a031264e",
+            "id": "b1c1c496186e8d92",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Network layer IP Architecture and Addressing.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Network layer IP Architecture and Addressing"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -208,19 +212,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d2256e19a031264e",
+  "active": "1f1ee460bb1ec18d",
   "lastOpenFiles": [
-    "📋Global TODO.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/📚Documents/Images/{E88E3568-BCC0-4D39-8065-196DA6D2C300}.png",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/🎨Scratch.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/📚Documents/Images",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/📚Documents",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/my topo/LoadPlan2/topo.txt",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/my topo/LoadPlan2/config.txt",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/my topo/LoadPlan2",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/my topo/LoadPlan1/topo.txt",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/my topo/LoadPlan1/config.txt",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/my topo/LoadPlan1",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/my topo",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Network layer IP Architecture and Addressing.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Pcitures",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/IP Network addressing.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/config.txt",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/topology.txt",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/RoutingSim.exe",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2-description.pdf",
+    "📋Global TODO.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/📚Documents/Images/Pasted Image 20251108120601_684.png",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gsiteB.png",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gsiteA.png",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/README.md",
@@ -236,9 +243,6 @@
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 3 - Classification/📙Classification.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📙Linear Regression.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📙Medium Access Control Protocols.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/🎨Scratch.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028164545.png",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251028181830.png",
     "DIFS.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/ℹ️Info.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/🎨Scratch.md",
