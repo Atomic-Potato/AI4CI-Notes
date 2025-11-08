@@ -16,7 +16,7 @@
               "state": {
                 "file": "📋Global TODO.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "table",
+                  "kanban-plugin": "board",
                   "list-collapse": [
                     false,
                     false,
@@ -43,9 +43,21 @@
               "icon": "lucide-file-text",
               "title": "TP2-description"
             }
+          },
+          {
+            "id": "d2256e19a031264e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Network layer IP Architecture and Addressing.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Network layer IP Architecture and Addressing"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,21 +208,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1f1ee460bb1ec18d",
+  "active": "d2256e19a031264e",
   "lastOpenFiles": [
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 1/medyan_gwcloudB.txt",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 1/medyan_gwcloudA.txt",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 1",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gwcloudA.txt",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gsiteB.txt",
+    "📋Global TODO.md",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Network layer IP Architecture and Addressing.pdf",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Pcitures",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/IP Network addressing.pdf",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/config.txt",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/topology.txt",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/RoutingSim.exe",
+    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2-description.pdf",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gsiteB.png",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gsiteA.txt",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gsiteA.png",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/NOTES.tx",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/exports/OfficeA/OfficeACert.pem",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/exports/OfficeA/OfficeAKey.pem",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/exports/OfficeB/OfficeBKey.pem",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/README.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/TP2.png",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/DMA.jpeg",
@@ -220,7 +232,6 @@
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251029130741.png",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251029130115.png",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📙Minimum Spanning Trees.md",
-    "📋Global TODO.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🎨Scratch.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 3 - Classification/📙Classification.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 2 - Linear Regression/📙Linear Regression.md",

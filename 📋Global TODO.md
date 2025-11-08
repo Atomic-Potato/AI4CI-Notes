@@ -1,18 +1,18 @@
 ---
 
-kanban-plugin: table
+kanban-plugin: board
 
 ---
 
 ## USEEJ6 - Net Arch #net-arc
 
+- [ ] Finish lab 3
 - [ ] 🔼Ask someone to help you understand the third chapter ack exercise
 
 
 ## USEEK7 - Net Sec #net-sec
 
-- [ ] Solve Lab 1 exercises
-- [ ] Write Lab 1 notes
+- [ ] Learn the latex tool
 - [ ] ## Project @{2026-01-01} 
 	- [x] Find a simple problem
 	- [ ] Find already done solutions
@@ -35,8 +35,7 @@ kanban-plugin: table
 
 ## USEEJ9 - FLE #fle
 
-- [x] Write the profiles thingy
-- [ ] Upload your anki cards
+- [ ] Add last session words
 
 
 ## USEEN3 - OR #or
@@ -48,9 +47,11 @@ kanban-plugin: table
 ## Archive
 
 - [x] Finish Lab 2 🔺 ⏳ 2025-10-25 ✅ 2025-10-26
+- [x] Write the profiles thingy
+- [x] Upload your anki cards
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[false,false,false,false,false,false],"table-sizing":{"card":823}}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"table-sizing":{"card":823}}
 ```
 %%
