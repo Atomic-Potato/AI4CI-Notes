@@ -1,12 +1,10 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: list
 ---
 
 ## USEEJ6 - Net Arch #net-arc
 
-- [ ] Finish lab 3
+- [ ] Finish lab 3 (test it on a school computer)
 - [ ] Finish chapter 4 notes
 - [ ] 🔼Ask someone to help you understand the third chapter ack exercise
 
@@ -41,6 +39,7 @@ kanban-plugin: board
 
 ## USEEN3 - OR #or
 
+- [ ] last or notes
 
 
 ***
@@ -53,6 +52,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"table-sizing":{"card":823}}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false],"table-sizing":{"card":823},"lane-width":600,"full-list-lane-width":true}
 ```
 %%
