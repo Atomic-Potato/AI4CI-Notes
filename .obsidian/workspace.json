@@ -31,33 +31,8 @@
               "icon": "lucide-trello",
               "title": "📋Global TODO"
             }
-          },
-          {
-            "id": "96650a3c5b7f70b9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2-description.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TP2-description"
-            }
-          },
-          {
-            "id": "d2256e19a031264e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Network layer IP Architecture and Addressing.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Network layer IP Architecture and Addressing"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,19 +183,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d2256e19a031264e",
+  "active": "74ddf16b85d2f0c4",
   "lastOpenFiles": [
-    "📋Global TODO.md",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/📚Documents/General presentation.pdf",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2-code.zip",
+    "French Life.pptx",
+    "Master 1/French Life.pptx",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - Assembly/📚Documents/CompArch.pdf",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/📚Documents/Network_Security___Slides_2.pdf",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Project/Links.md",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Project/Exploring.canvas",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Project/Network Security Project Idea.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Network layer IP Architecture and Addressing.pdf",
+    "Master 1/Semester 1/1️⃣USEEK7 - Network security/tcp_ip.pdf",
+    "📋Global TODO.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents/Pcitures",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer/📚Documents",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 5 - Network Layer",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/IP Network addressing.pdf",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/config.txt",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/topology.txt",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/RoutingSim.exe",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2-description.pdf",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gsiteB.png",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/Part 2/medyan_gsiteA.png",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/README.md",
@@ -252,9 +231,6 @@
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/ℹ️Info.md",
     "Master 1/Semester 1/5️⃣USEEJ9 - FLE - French as foreign language/📋TODO - USEEJ9 French.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/ℹ️Info.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📋TODO - USEEN6 AI and ML for Connected Systems.md",
-    "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/📋TODO - USEEN3 Operations Research.md",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/📋TODO - USEEN2 OS and Computer Architecure.md",
-    "Master 1/Semester 1/1️⃣USEEK7 - Network security/Project/Exploring.canvas"
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/📋TODO - USEEN6 AI and ML for Connected Systems.md"
   ]
 }
