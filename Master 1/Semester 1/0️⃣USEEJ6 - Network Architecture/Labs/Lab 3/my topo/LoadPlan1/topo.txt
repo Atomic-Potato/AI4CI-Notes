@@ -1,0 +1,30 @@
+install r1 businternet eth0
+install internet businternet eth0
+
+install r1 bus1 eth1
+install n1 bus1 eth1
+install n2 bus1 eth1
+
+install r1 bus2 eth2
+install r2 bus2 eth0
+install n3 bus2 eth0
+
+install r2 bus3 eth1
+install r3 bus3 eth0
+install r4 bus3 eth0
+
+install r3 bus4 eth1
+install n5 bus4 eth0
+install n4 bus4 eth0
+
+install r3 bus5 eth2
+install n10 bus5 eth0
+install n11 bus5 eth0
+
+install r4 bus6 eth1
+install n8 bus6 eth0
+install n9 bus6 eth0
+
+install r4 bus7 eth2
+install n6 bus7 eth0
+install n7 bus7 eth0
