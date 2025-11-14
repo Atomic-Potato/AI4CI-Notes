@@ -4,8 +4,43 @@
     "type": "split",
     "children": [
       {
+        "id": "f5df653da55a609e",
+        "type": "tabs",
+        "dimension": 45.362473347547976,
+        "children": [
+          {
+            "id": "7c8614b9fb1ff9e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/asm1.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "asm1"
+            }
+          },
+          {
+            "id": "d4cad843bf0d6915",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/lab-asm1 Solutions.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lab-asm1 Solutions"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "586090a89d35ae3a",
         "type": "tabs",
+        "dimension": 54.63752665245203,
         "children": [
           {
             "id": "74ddf16b85d2f0c4",
@@ -39,7 +74,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - Assembly/📚Documents/Slides_Assembly.pdf"
+                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - RISC-V 32bit Assembly/📚Documents/Slides_Assembly.pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
@@ -47,83 +82,47 @@
             }
           },
           {
-            "id": "58ef7bfdbb61d8d5",
+            "id": "e34eb6538ae3b70e",
             "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/lab-asm1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lab-asm1"
+            }
+          },
+          {
+            "id": "276054220f984d40",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 1 - Number Representation and Boolean Function/📙Number Representation and Boolean Function.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "📙Number Representation and Boolean Function"
             }
           },
           {
-            "id": "b9824e7c5f2baefa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - Assembly/📚Documents/RISCV_GREEN_CARD.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "RISCV_GREEN_CARD"
-            }
-          },
-          {
-            "id": "bb81ac468dcc022d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/td2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "td2"
-            }
-          },
-          {
-            "id": "928aeec35fab8ce3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/asm1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "asm1"
-            }
-          },
-          {
-            "id": "b4f92f3b731090e5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/exam-20232024-session1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "exam-20232024-session1"
-            }
-          },
-          {
-            "id": "b0df6e6b50e6a74e",
+            "id": "82b5c63f20e3c6cb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/td 2 Solutions.md"
+                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/asm1 Solutions.md"
               },
               "icon": "excalidraw-icon",
-              "title": "td 2 Solutions"
+              "title": "asm1 Solutions"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📋Global TODO.md",
+                "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/asm1 Solutions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📋Global TODO"
+              "title": "Outline of asm1 Solutions"
             }
           }
         ],
@@ -274,23 +273,70 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b4f92f3b731090e5",
+  "floating": {
+    "id": "ac0fe7035e47aaf3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9ebec2ff7cd3f387",
+        "type": "window",
+        "children": [
+          {
+            "id": "73df9d4d0255ae87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b9824e7c5f2baefa",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - RISC-V 32bit Assembly/📚Documents/RISCV_GREEN_CARD.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "RISCV_GREEN_CARD"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 197,
+        "y": 1109,
+        "width": 938,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d4cad843bf0d6915",
   "lastOpenFiles": [
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - RISC-V 32bit Assembly/📙 RISC-V.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/lab-asm1.pdf",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/lab-asm1 Solutions.md",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/lab-asm1 Solutions.canvas",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/Pictures/Pasted Image 20251114144400_490.png",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/asm1.pdf",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/td2.pdf",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - Assembly/📚Documents/RISCV_GREEN_CARD.pdf",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/asm1 Solutions.md",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - RISC-V 32bit Assembly/📚Documents/RISCV_GREEN_CARD.pdf",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - RISC-V 32bit Assembly/📚Documents/Slides_Assembly.pdf",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/Pictures/Pasted Image 20251114144503_153.png",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 1 - Number Representation and Boolean Function/📙Number Representation and Boolean Function.md",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - Assembly/📚Documents/Slides_Assembly.pdf",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/td 2 Solutions.md",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/exam-20232024-session1.pdf",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 1 - Introduction/📚Documents/aiml-01-Introduction.pdf",
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 1 - Introduction/📙Introduction.md",
     "📋Global TODO.md",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/Pictures/Pasted Image 20251112095338_629.png",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/Pictures",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/td2.pdf",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/td 2 Solutions.md",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/Pictures/Pasted Image 20251112095213_123.png",
+    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/exam-20232024-session1.pdf",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - Assembly/Exercises",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/td 1 Solutions.md",
     "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 1 - Number Representation and Boolean Function/📚Documents/Slides_Numbers And Bool.pdf",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Exercises/td1.pdf",
-    "Master 1/Semester 1/2️⃣USEEN2 - Operating Systems and Computer Architecture/Chapter 2 - Assembly/📙 Assembly.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/📚Documents/Images/{E88E3568-BCC0-4D39-8065-196DA6D2C300}.png",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Labs/Lab 3/📚Documents/Images/Pasted Image 20251108120601_684.png",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Project/Links.md",
@@ -301,11 +347,7 @@
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/README.md",
     "Master 1/Semester 1/1️⃣USEEK7 - Network security/Lab 2/TP2/TP2-firewall/TP2.png",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/DMA.jpeg",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251029131951.png",
     "README.md",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251029131924.png",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251029130741.png",
-    "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 4 - Medium Access Control Protocols/📚Documents/Pictures/Pasted image 20251029130115.png",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 3 - Minimum Spanning Trees/📙Minimum Spanning Trees.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🎨Scratch.md",
     "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 3 - Classification/📙Classification.md",
@@ -318,9 +360,6 @@
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Session Notes.md",
     "Master 1/Semester 1/3️⃣USEEN3 - Operations Research/Chapters/Chapter 2 - Graph Search Algorithms/📙Graph Search Algorithms.md",
     "Master 1/Semester 1/0️⃣USEEJ6 - Network Architecture/Chapters/Chapter 3 - Transport Layer/📙Transport Layer.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/Chapter 1 - Introduction/📙Introduction.md",
-    "Master 1/Semester 1/5️⃣USEEJ9 - FLE - French as foreign language/ℹ️Info.md",
-    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/ℹ️Info.md"
+    "Master 1/Semester 1/4️⃣USEEN6 - Artificial Intelligence and Machine Learning for Connected Systems/🐍Python.md"
   ]
 }

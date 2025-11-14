@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: list
+
 ---
 
 ## USEEJ6 - Net Arch #net-arc
@@ -27,6 +29,7 @@ kanban-plugin: list
 
 ## USEEN6 - AIML #aiml
 
+- [ ] Assignment @{2025-11-30}
 - [ ] Session 1 notes
 - [ ] Session 2 notes
 - [ ] Lab 1 notes
@@ -34,6 +37,7 @@ kanban-plugin: list
 
 ## USEEJ9 - FLE #fle
 
+- [ ] Prepare for grading @{2025-12-03}
 - [ ] Add last session words
 
 
